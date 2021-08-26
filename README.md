@@ -2,7 +2,6 @@
 
 I am a **Computer Science** Sophomore at *Missouri State University*, 
 passionate about learning to develop software applications.  
-I believe computer science is the ruling engineering of the future 
 
 I work with python and a bit of c++. 
 Comparitively, I like playing with python better.
