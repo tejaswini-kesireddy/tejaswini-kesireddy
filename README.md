@@ -9,9 +9,9 @@ I like creating APIs with high level programming languages to solve real world p
 ### Projects I've worked on:
 - **WeatherTogether (Python)**
     - Developed a crowd casting application, that notifies
-    - subscribed users when there are severe weather alerts.
-    - This application can gather data from users about
-    - weather conditions and cast them to all subscribers.
+      subscribed users when there are severe weather alerts.
+      This application can gather data from users about
+      weather conditions and cast them to all subscribers.
 - **Time Converter (C++)**
     - Developed a C++ application that can take 
       a 12-hour time format and convert it to 24-hour time 
