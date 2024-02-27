@@ -1,13 +1,17 @@
 ### Hello, I am Tejaswini Kesi Reddy. 
 
-I am a **Computer Science** Sophomore at *Missouri State University*, 
-passionate about learning to develop software applications.  
+I am a software developer based in the US. 
+I am currently pursuing my Bachelor's in Computer Science at Missouri State University. 
+My major interest is on web development and programming languages. 
+I like creating APIs with high level programming languages to solve real world problems.
 
-I work with python and a bit of c++. 
-Comparitively, I like playing with python better.
-I am currently learning about data structures and github. 
 
 ### Projects I've worked on:
+- **WeatherTogether (Python)**
+    - Developed a crowd casting application, that notifies
+    - subscribed users when there are severe weather alerts.
+    - This application can gather data from users about
+    - weather conditions and cast them to all subscribers.
 - **Time Converter (C++)**
     - Developed a C++ application that can take 
       a 12-hour time format and convert it to 24-hour time 
